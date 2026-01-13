@@ -94,6 +94,3 @@ No coding background required.
 - Interview preparation tips
 
 ---
-
-│
-└── README.md
