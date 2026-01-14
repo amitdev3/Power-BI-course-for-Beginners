@@ -15,6 +15,10 @@ The course focuses on **hands-on learning** using real-world datasets, clear exp
 
 No coding background required.
 
+## 👨‍🏫 Course Reference
+
+This dataset is part of the **Power BI for Beginners** by **Insert Data**.
+
 ---
 
 ## 🛠️ Tools & Requirements
@@ -94,3 +98,19 @@ No coding background required.
 - Interview preparation tips
 
 ---
+
+[![Instagram](https://img.shields.io/badge/Instagram-@data.insert-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/data.insert/)<br>
+[![YouTube](https://img.shields.io/badge/YouTube-Insert%20Data-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@InsertData)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Insert%20Data-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/insert-data)<br>
+📊 Focus: Power BI • SQL • Data Analytics • Interviews  
+
+
+---
+
+## ⭐ Support
+If you find this helpful:
+- ⭐ Star the repo
+- 🍴 Fork it
+- 📤 Share with learners
+
+Happy Learning! 🚀
